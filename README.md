@@ -95,8 +95,11 @@ sh
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+<img width="835" height="755" alt="image" src="https://github.com/user-attachments/assets/e223dcc0-a37f-4d08-8321-8e75fba8bc4f" />
 
+<img width="783" height="50" alt="image" src="https://github.com/user-attachments/assets/f13b4526-8260-4c2b-b52d-13296e8e3eaa" />
+
+<img width="790" height="846" alt="image" src="https://github.com/user-attachments/assets/058d911f-612f-472b-bdbf-6dc111490598" />
 
 ## Result:
 Thus, the SVM model was successfully implemented to classify food items for diabetic patients, with hyperparameter tuning optimizing the model's performance.
