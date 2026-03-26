@@ -19,8 +19,8 @@ Split Data: Use train_test_split (e.g., 70% train, 30% test, random_state=42).
 ```
 
 Program to implement SVM for food classification for diabetic patients.
-Developed by: AJITH.A
-RegisterNumber: 212224230012
+Developed by: Akil.S
+RegisterNumber: 212225220007
 
 # Import necessary libraries
 import pandas as pd
